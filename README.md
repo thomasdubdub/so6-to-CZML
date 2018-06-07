@@ -1,7 +1,7 @@
 # so6 air traffic file to CesiumJS CZML
 
 Generation of a CZML file from so6 air traffic file
-This CZML file can be read by CESIUM. The traffic is represented by :
+This CZML file can be read by CesiumJS. The traffic is represented by :
 * static objects (trajectories)
 * dynamic objects (tracks)
 
@@ -25,7 +25,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Thanks to Will Geary tutorial [Visualizing a Bike Ride in 3D](https://willgeary.github.io/GPXto3D/) 
+Thanks to Will Geary's tutorial [Visualizing a Bike Ride in 3D](https://willgeary.github.io/GPXto3D/) 
 
 
 
