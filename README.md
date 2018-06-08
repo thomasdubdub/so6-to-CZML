@@ -9,6 +9,14 @@ Example: display all flights from LFBO airport
 
 ![Flights from LFBO](lfbo.png)  
 
+## Running the tests
+
+You can verify the generated CZML file:
+* either with a simple drap & drop on the online Cesium viewer [here](https://cesiumjs.org/Cesium/Build/Apps/CesiumViewer/index.html)
+* either by modifying the CZML variable in the Cesium path sandbox [here](https://cesiumjs.org/Cesium/Apps/Sandcastle/index.html?src=CZML%20Path.html&label=)
+With the second option, you can save an html file that you can run with a local server, see the HelloWorld.html example in Cesium Apps folder
+
+
 ## Built With
 
 * [pandas](https://pandas.pydata.org/) - Python Data Analysis Library
